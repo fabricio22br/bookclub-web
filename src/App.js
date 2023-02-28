@@ -1,7 +1,7 @@
-import { ChakraProvider } from '@chakra-ui/react'
+import { ChakraProvider } from '@chakra-ui/react';
 
 function App() {
-  return <ChakraProvider></ChakraProvider>
+  return <ChakraProvider></ChakraProvider>;
 }
 
-export default App
+export default App;
