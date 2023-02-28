@@ -6,7 +6,8 @@ module.exports = {
   extends: ['plugin:react/recommended', 'standard', 'prettier'],
   overrides: [],
   parserOptions: {
-    ecmaVersion: 'latest'
+    ecmaVersion: 'latest',
+    sourceType: 'module'
   },
   plugins: ['react', 'prettier'],
   rules: {
