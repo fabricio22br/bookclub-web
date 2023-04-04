@@ -1,6 +1,6 @@
 # BookClub
 
-[![BookClub Demo](/public/img/demo.png '  BookClub Demo')()]
+[![BookClub Demo](/public/img/demo.png '  BookClub Demo')](https://github.com/fabricio22br/bookclub-web/blob/main/public/img/demo.png)
 
 ## Description
 
